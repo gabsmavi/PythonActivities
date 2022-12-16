@@ -88,22 +88,4 @@ print(f'{Funcionario1.nome},')
 Funcionario1.analisemenos()
 print('\n')
 
-# # Criação da Conta2
-# Conta2 = Conta(342323232, 1234234232, 'Mateus', 3000)
-#
-# # Extratos
-# print('Conta1')
-# Conta1.gerarextrato()
-# print('\n')
-#
-# print('Conta2')
-# Conta2.gerarextrato()
-# print()
-#
-# # Realizando transferência
-#
-# Conta1.transferevalor(Conta2, 2000)
-#
-# # Verificando se o saldo da Conta1 foi diminuido
-# print('Conta1 após transferir 2000 para a Conta2')
-# Conta1.gerarextrato()
+
